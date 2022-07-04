@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Installation process ( works on with laravel 8.x it does not work with laravelv 9.* as that uses vite)
 
     composer create-project laravel/laravel basic "8.*"
@@ -99,3 +100,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# basic8
+Basic laravel8 
+>>>>>>> fbfb9d471142fc987a958eaf60ecd6102631803c
