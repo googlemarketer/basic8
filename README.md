@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Installation process ( works on with laravel 8.x it does not work with laravelv 9.* as that uses vite)
+# Installation process ( works on with laravel 8.x )
 
     composer create-project laravel/laravel basic "8.*"
     cd basic
